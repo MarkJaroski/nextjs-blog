@@ -30,8 +30,5 @@ yarn-error.log*
 .env.production.local
 
 # Swap files
-*.swp
-*.swa
+.*.sw*
 
-# data
-/posts/*
